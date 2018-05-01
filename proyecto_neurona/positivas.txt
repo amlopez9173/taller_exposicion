@@ -1,0 +1,13 @@
+positivas/01.jpg 1 109 29 599 432
+positivas/010.jpg 1 105 296 237 216
+positivas/011.jpg 1 32 118 746 324
+positivas/012.jpg 1 79 173 305 288
+positivas/013.jpg 1 182 51 456 452
+positivas/02.jpg 1 36 117 713 325
+positivas/03.jpg 1 48 98 352 333
+positivas/04.jpg 1 45 97 722 312
+positivas/05.jpg 1 32 124 740 353
+positivas/06.jpg 1 43 102 703 303
+positivas/07.jpg 1 31 123 376 373
+positivas/08.jpg 1 17 123 751 402
+positivas/09.jpg 1 61 131 322 332

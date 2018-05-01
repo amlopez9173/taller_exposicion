@@ -1,0 +1,1 @@
+C:\opencv\build\x64\vc12\bin\opencv_traincascade.exe -data data\cascade -vec data\carros.vec -bg negativas.txt -numPos 13 -numNeg 7 -numStages 23 -minHitRatio 0.999 -maxFalseAlarmRate 0.5 -precalcValBufSize 3072 -precalcIdxBufSize 3072 -w 21 -h 21 -mode ALL

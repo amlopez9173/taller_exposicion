@@ -1,0 +1,1 @@
+C:\opencv\build\x64\vc12\bin\opencv_createsamples.exe -info positivas.txt -vec data\carros.vec -num 13 -w 21 -h 21

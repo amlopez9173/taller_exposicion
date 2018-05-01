@@ -1,0 +1,13 @@
+rawdata/01.bmp 1 109 29 599 432
+rawdata/010.bmp 1 105 296 237 216
+rawdata/011.bmp 1 32 118 746 324
+rawdata/012.bmp 1 79 173 305 288
+rawdata/013.bmp 1 182 51 456 452
+rawdata/02.bmp 1 36 117 713 325
+rawdata/03.bmp 1 48 98 352 333
+rawdata/04.bmp 1 45 97 722 312
+rawdata/05.bmp 1 32 124 740 353
+rawdata/06.bmp 1 43 102 703 303
+rawdata/07.bmp 1 31 123 376 373
+rawdata/08.bmp 1 17 123 751 402
+rawdata/09.bmp 1 61 131 322 332
